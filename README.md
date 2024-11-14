@@ -22,7 +22,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 - 📖 Currently working on: [Mnemonics](https://mnemonics.pages.dev/) - An AI-powered language learning platform
 - 🤖 Pursuing: Master's in AI at Johannes Kepler University
 - 👨‍🏫 Teaching: Data Analysis at FH JOANNEUM
-- 📝 Writing about: AI/ML on [HackMD](https://hackmd.io/@m-g)
+- 📝 Writing about: Data Science and Machine Learning on [HackMD](https://hackmd.io/@m-g), [GitHub](https://github.com/ai-mg/Data-Analysis-Tutorials-Python-Jupyter)
 - 🎯 Focus areas: Machine Learning, Data Science, Full Stack Development
 
 ## 💻 Technical Stack
