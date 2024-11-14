@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manu Gupta</h1>
-  <h3 align="center">Astrophysicist | AI Enthusiast | Data Scientist | Full Stack Developer</h3>
+  <h3 align="center">AI Engineer | Data Scientist | Full Stack Developer </h3>
 </p>
 
 <p align="center">
@@ -17,78 +17,90 @@
 
 ## 🚀 About Me
 
-I'm a passionate researcher and developer with a PhD in Astrophysics and currently pursuing a Master's in AI. My journey spans from studying solar flares to developing AI-powered applications. I love tackling complex problems and creating innovative solutions that make a difference.
+AI Engineer and Full Stack Developer with a strong foundation in computational modeling and data analysis. Leveraging my PhD experience in computational Astrophysics and analyzing space mission data, I now apply those analytical and programming skills to AI/ML and web development challenges. I specialize in developing end-to-end applications that combine robust backend systems with intuitive frontend experiences.
 
-- 🔭 Currently working on: [Mnemonics](https://mnemonics.pages.dev/) - An AI-powered German learning platform
-- 🌱 Learning: Advanced AI/ML techniques at Johannes Kepler University
-- 👨‍🏫 Teaching: Data Analysis and Python Programming at FH JOANNEUM
-- 📝 Blogging about: Data Science and Machine Learning on [HackMD](https://hackmd.io/@m-g)
+- 📖 Currently working on: [Mnemonics](https://mnemonics.pages.dev/) - An AI-powered language learning platform
+- 🤖 Pursuing: Master's in AI at Johannes Kepler University
+- 👨‍🏫 Teaching: Data Analysis at FH JOANNEUM
+- 📝 Writing about: AI/ML on [HackMD](https://hackmd.io/@m-g)
+- 🎯 Focus areas: Machine Learning, Data Science, Full Stack Development
 
-## 🛠️ Technical Stack
+## 💻 Technical Stack
 
-### Languages & Tools
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![FORTRAN](https://img.shields.io/badge/FORTRAN-734F96?style=flat-square&logo=fortran&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### Frameworks & Libraries
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Altair](https://img.shields.io/badge/Altair-00A4EF?style=flat-square&logo=python&logoColor=white)
 
-### Web Development
+### Full Stack Development
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcn&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🎯 Featured Projects
 
-### 1. [Mnemonics](https://mnemonics.pages.dev/) 
-- AI-powered German vocabulary learning platform
-- Tech Stack: Svelte, Shadcn UI, Claude API, SQL
-- Features: Automatic mnemonic generation, personalized learning paths
+### 1. [WortWizard](https://mnemonics.pages.dev/) 
+- AI-powered language learning platform
+- **Tech Stack:** Svelte, Tailwind CSS, Claude API, SQL
+- **Features:** 
+  - AI-driven mnemonic generation
+  - Personalized learning paths
+  - Responsive UI with modern design
+  - RESTful API integration
 
-### 2. Solar Flare Analysis Package
-- Python package for analyzing solar active regions
-- Used by researchers worldwide for solar physics research
-- Published in Astronomy & Astrophysics journal
+### 2. Advanced Data Analysis Pipeline
+- Developed efficient data processing workflows
+- Implemented parallel computing techniques
+- Achieved 70% reduction in processing time
+- **Tech Stack:** Python, NumPy, Pandas, Parallel Computing
 
-### 3. NLFFF Model for Solar Atmosphere
-- Parallel computational model in FORTRAN
-- Processes NASA/ESA space mission data
-- Contributed to 4 peer-reviewed publications
+### 3. Computational Physics Modeling
+- Large-scale data analysis from NASA/ESA missions
+- Complex system modeling and optimization
+- Published research findings in peer-reviewed journals
+- **Tech Stack:** Python, FORTRAN, Scientific Computing Libraries
 
-## 📚 Publications
+## 🎓 Education & Certifications
 
-1. "Deducing the reliability of relative helicities from nonlinear force-free coronal models"
-2. "Magnetic helicity and energy budget around large confined and eruptive solar flares"
-3. "The effect of spatial resolution on magnetic field modeling and helicity computation"
-4. "Stability of the coronal magnetic field around large confined and eruptive solar flares"
-
-## 🎓 Education
-
-- **PhD in Astrophysics** (2024) - University of Graz, Austria
 - **MSc in Artificial Intelligence** (Ongoing) - Johannes Kepler University, Austria
-- **MSc in Space Physics** (2019) - IISER Kolkata, India
-
-## 🏆 Achievements
-
-- PhD passed with distinction (Grade: 1)
-- Achieved 70% reduction in data processing time through parallel computing
-- PTE Academic Score: 80
-- GRE Score: 318
+  - Focus: Computer Vision, Deep Learning, Neural Networks
+  - Currently exploring advanced ML applications
+- **PhD in Astrophysics** (2024) - University of Graz, Austria
+  - Developed expertise in large-scale data analysis and parallel computing
+  - Created optimized computational models using Python and FORTRAN
+  - Published 4 papers in peer-reviewed journals
+  - Advanced experience with NASA/ESA mission data processing
+- **PTE Academic Score:** 80
+- **GRE Score:** 318
 
 ## 💡 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-1. [Making Complex ML Concepts Simple](https://hackmd.io/@m-g)
-2. [Journey from Astrophysics to AI](https://hackmd.io/@m-g)
+1. [Building AI-Powered Web Applications](https://hackmd.io/@m-g)
+2. [Advanced Data Processing with Python](https://hackmd.io/@m-g)
+3. [Modern Full Stack Development Practices](https://hackmd.io/@m-g)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
