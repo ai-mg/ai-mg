@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-AI Engineer and Full Stack Developer with a strong foundation in computational modeling and data analysis. Leveraging my PhD experience in computational Astrophysics and analyzing space mission data, I now apply those analytical and programming skills to AI/ML and web development challenges. I specialize in developing end-to-end applications that combine robust backend systems with intuitive frontend experiences.
+AI Engineer and Full Stack Developer with a strong foundation in computational modeling and data analysis. Leveraging my PhD experience in computational Astrophysics and analyzing space mission data, I now apply those analytical and programming skills to AI/ML and web development challenges. I love tackling complex problems and creating innovative solutions that make a difference.
 
 - 📖 Currently working on: [WortWizard](https://mnemonics.pages.dev/) with [Keith](https://github.com/zan-keith) - An AI-powered language learning platform
 - 🤖 Pursuing: Master's in AI at Johannes Kepler University
@@ -81,7 +81,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 - **Tech Stack:** C, C shell, BASH, Python, NumPy, Scipy, Pandas, OpenCV, Scikit-image, Parallel Computing
 - Publications: [Paper 1](https://doi.org/10.1051/0004-6361/202140591), [Paper 2](https://doi.org/10.1051/0004-6361/202243222), [Paper 3](https://doi.org/10.1051/0004-6361/202346212)
 
-## 🎓 Education
+<!--## 🎓 Education
 
 - **MSc in Artificial Intelligence** (Ongoing) - Johannes Kepler University, Austria
   - Focus: Deep Learning, Computer Vision, LSTM and Recurrent Neural Networks, Reommender Systems
@@ -89,7 +89,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 - **PhD in Astrophysics** (2024) - University of Graz, Austria
   - Developed expertise in large-scale data analysis, compuational modeling and parallel computing
   - Created optimized computational models using Python
-  - Published 4 papers in peer-reviewed journals
+  - Published 4 papers in peer-reviewed journals-->
 
 ## 💡 Recent Blog Posts
 
