@@ -1,14 +1,16 @@
 <p align="center">
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manu Gupta</h1>
-  <h3 align="center">AI Engineer | Data Scientist | Full Stack Developer </h3>
+  <h3 align="center">Full Stack Developer | AI Engineer | Data Scientist</h3>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/apmanugupta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ai-mg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=0H7pk9kAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="mailto:apmanugupta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -19,9 +21,9 @@
 
 AI Engineer and Full Stack Developer with a strong foundation in computational modeling and data analysis. Leveraging my PhD experience in computational Astrophysics and analyzing space mission data, I now apply those analytical and programming skills to AI/ML and web development challenges. I specialize in developing end-to-end applications that combine robust backend systems with intuitive frontend experiences.
 
-- 📖 Currently working on: [Mnemonics](https://mnemonics.pages.dev/) - An AI-powered language learning platform
+- 📖 Currently working on: [WortWizard](https://mnemonics.pages.dev/) with [Keith](https://github.com/zan-keith) - An AI-powered language learning platform
 - 🤖 Pursuing: Master's in AI at Johannes Kepler University
-- 👨‍🏫 Teaching: Data Analysis at FH JOANNEUM
+- 👨‍🏫 Teaching: Data Analysis at FH JOANNEUM Graz
 - 📝 Writing about: Data Science and Machine Learning on [HackMD](https://hackmd.io/@m-g), [GitHub](https://github.com/ai-mg/Data-Analysis-Tutorials-Python-Jupyter)
 - 🎯 Focus areas: Machine Learning, Data Science, Full Stack Development
 
@@ -34,6 +36,8 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -63,37 +67,29 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 
 ### 1. [WortWizard](https://mnemonics.pages.dev/) 
 - AI-powered language learning platform
-- **Tech Stack:** Svelte, Tailwind CSS, Claude API, SQL
+- **Tech Stack:** Svelte, Shadcn UI, Tailwind CSS, Claude API, SQL
 - **Features:** 
   - AI-driven mnemonic generation
-  - Personalized learning paths
+  - Wordlists on standard German and regional dialects
   - Responsive UI with modern design
-  - RESTful API integration
+  - Claude API integration
 
-### 2. Advanced Data Analysis Pipeline
-- Developed efficient data processing workflows
-- Implemented parallel computing techniques
+### 2. Solar Flare Modeling
+- Studied the Physics behind solar flares through 3D computational modeling in C and Python.
+- Conducted in-depth analysis using NASA/ESA space mission data on the Sun
 - Achieved 70% reduction in processing time
-- **Tech Stack:** Python, NumPy, Pandas, Parallel Computing
-
-### 3. Computational Physics Modeling
-- Large-scale data analysis from NASA/ESA missions
-- Complex system modeling and optimization
-- Published research findings in peer-reviewed journals
-- **Tech Stack:** Python, FORTRAN, Scientific Computing Libraries
+- **Tech Stack:** C, C shell, BASH, Python, NumPy, Scipy, Pandas, OpenCV, Scikit-image, Parallel Computing
+- Publications: [Paper 1](https://doi.org/10.1051/0004-6361/202140591), [Paper 2](https://doi.org/10.1051/0004-6361/202243222), [Paper 3](https://doi.org/10.1051/0004-6361/202346212)
 
 ## 🎓 Education & Certifications
 
 - **MSc in Artificial Intelligence** (Ongoing) - Johannes Kepler University, Austria
-  - Focus: Computer Vision, Deep Learning, Neural Networks
-  - Currently exploring advanced ML applications
+  - Focus: Deep Learning, Computer Vision, LSTM and Recurrent Neural Networks, Reommender Systems
+  - Currently exploring Psychology Informed Reommender Systems and applications of AI in educational tools
 - **PhD in Astrophysics** (2024) - University of Graz, Austria
-  - Developed expertise in large-scale data analysis and parallel computing
-  - Created optimized computational models using Python and FORTRAN
+  - Developed expertise in large-scale data analysis, compuational modeling and parallel computing
+  - Created optimized computational models using Python
   - Published 4 papers in peer-reviewed journals
-  - Advanced experience with NASA/ESA mission data processing
-- **PTE Academic Score:** 80
-- **GRE Score:** 318
 
 ## 💡 Recent Blog Posts
 
