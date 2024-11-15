@@ -81,7 +81,7 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 - **Tech Stack:** C, C shell, BASH, Python, NumPy, Scipy, Pandas, OpenCV, Scikit-image, Parallel Computing
 - Publications: [Paper 1](https://doi.org/10.1051/0004-6361/202140591), [Paper 2](https://doi.org/10.1051/0004-6361/202243222), [Paper 3](https://doi.org/10.1051/0004-6361/202346212)
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 - **MSc in Artificial Intelligence** (Ongoing) - Johannes Kepler University, Austria
   - Focus: Deep Learning, Computer Vision, LSTM and Recurrent Neural Networks, Reommender Systems
@@ -94,14 +94,16 @@ AI Engineer and Full Stack Developer with a strong foundation in computational m
 ## 💡 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-1. [Building AI-Powered Web Applications](https://hackmd.io/@m-g)
-2. [Advanced Data Processing with Python](https://hackmd.io/@m-g)
-3. [Modern Full Stack Development Practices](https://hackmd.io/@m-g)
+1. [Data Analysis with Python](https://github.com/ai-mg/Data-Analysis-Tutorials-Python-Jupyter)
+2. [Theoretical Concepts of Machine Learning](https://hackmd.io/@m-g/theoretical-concepts-machine-learning)
+3. Machine Learning [Supervised](https://hackmd.io/@m-g/supervised_learning) and [Unsupervised](https://hackmd.io/@m-g/UL)
+4. [LSTM and Recurrent Neural Networks](https://hackmd.io/@m-g/RNN)
+5. [Recommender Systems](https://hackmd.io/@m-g/SJUjrN_LR)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-mg&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-mg&show_icons=true&theme=radical) -->
 
 ---
 
